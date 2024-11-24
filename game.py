@@ -25,7 +25,7 @@ class Game:
             'large_decor': load_images('tiles/large_decor'),
             'stone': load_images('tiles/stone'),
             'player': load_image('entities/player.png'),
-            'background': load_image('backgroundX.png'),
+            'background': load_image('background.png'),
             'clouds': load_images('clouds'),
         }
 
